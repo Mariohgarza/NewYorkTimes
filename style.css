@@ -1,0 +1,60 @@
+.header1{
+	height:200px;
+	padding-top:60px;
+	background-color:#001f3f;
+	color:white;
+	font-size:70px;
+	font-weight:900px;
+	text-align:center;
+	margin-left:120px;
+	margin-right:130px;
+	font-family:Western European;
+	
+}
+
+.container1 {
+	border-color:grey;
+	border:8px ,8px;
+	height:300px;
+	width:900px;
+	margin-left:120px;
+	margin-right:100px;
+	padding-top:50px;
+
+}
+.pic{
+	height:80px;
+	width:60px;
+	background-color:#001f3f;
+
+	
+}
+.form1 {
+	border-color:darkgrey;
+	border:8px ,8px;
+	height:400px;
+	width:900px;
+	margin-left:120px;
+	margin-right:100px;
+	margin-top:20px;
+	
+}
+
+.panelHead {
+ background-color:gray !important;
+ color:white !important;
+ font-size:20px;
+ font-family:Western European;
+}
+
+.pic1{
+	height:30px;
+	width:25px;
+	background-color:white;
+
+		
+}
+.pic2{
+	height:30px;
+	width:35px;
+
